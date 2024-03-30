@@ -2,7 +2,7 @@
 
 - **_Parcel_** is used as a builder.
 - The project is implemented in **_JavaScript_**.
-- The code is executed on the classes.
+- The code is executed on the **_classes_**.
 - CSS using the **_SASS_** preprocessor.
 - The gallery is implemented on the **_simpelightbox_** library.
 - API requests using **_axios_**.
