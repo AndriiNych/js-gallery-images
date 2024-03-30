@@ -1,12 +1,12 @@
 ## Project description:
 
-- Parcel is used as a builder.
-- The project is implemented in JavaScript.
+- **_Parcel_** is used as a builder.
+- The project is implemented in **_JavaScript_**.
 - The code is executed on the classes.
-- CSS using the SASS preprocessor.
-- The gallery is implemented on the simpelightbox library.
-- API requests using Axios.
-- Notifications are implemented using notiflix.
-- Images are taken from pixabay.com
+- CSS using the **_SASS_** preprocessor.
+- The gallery is implemented on the **_simpelightbox_** library.
+- API requests using **_axios_**.
+- Notifications are implemented using **_notiflix_**.
+- Images are taken from **_pixabay.com_**
 
 **_Note:_** _the project was done as a homework while learning JavaScript_
